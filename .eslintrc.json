@@ -37,8 +37,11 @@
     "react-hooks/exhaustive-deps": "warn",
     "no-unused-expressions": "off",
     "import/prefer-default-export": "off",
+    "import/no-duplicates": "off",
     "@typescript-eslint/ban-types": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
+    "camelcase": "off",
+    "@typescript-eslint/camelcase": "off",
     "@typescript-eslint/explicit-function-return-type": [
       "error",
       {
